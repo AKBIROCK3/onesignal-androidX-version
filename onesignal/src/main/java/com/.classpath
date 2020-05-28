@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="com/onesignal/res/" kind="src" path="onesignal">
+		<attributes>
+			<attribute name="ignore_optional_problems" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="res"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="onesignal/core-1.0.0.jar"/>
+	<classpathentry kind="lib" path="onesignal/android.jar"/>
+	<classpathentry kind="lib" path="onesignal/annotation-1.0.0.jar"/>
+	<classpathentry kind="lib" path="onesignal/appcompat-1.0.0.jar"/>
+	<classpathentry kind="lib" path="onesignal/customview-1.0.0.jar"/>
+	<classpathentry kind="lib" path="onesignal/fragment-1.0.0.jar"/>
+	<classpathentry kind="lib" path="onesignal/amazon-device-messaging-1.0.1.jar"/>
+	<classpathentry kind="lib" path="onesignal/in-app-purchasing-2.0.1.jar"/>
+	<classpathentry kind="lib" path="onesignal/browser-1.0.0.jar"/>
+	<classpathentry kind="lib" path="onesignal/legacy-support-core-utils-1.0.0.jar"/>
+	<classpathentry kind="lib" path="onesignal/classes.jar"/>
+	<classpathentry kind="lib" path="onesignal/com/onesignal/in-app-purchasing-2.0.1.jar"/>
+	<classpathentry kind="lib" path="onesignal/com/onesignal/play-services-location-17.0.0.jar"/>
+	<classpathentry kind="lib" path="onesignal/com/onesignal/play-services-base-17.0.0.jar"/>
+	<classpathentry kind="lib" path="onesignal/com/onesignal/play-services-basement-17.0.0.jar"/>
+	<classpathentry kind="lib" path="onesignal/com/onesignal/play-services-gcm-17.0.0.jar"/>
+	<classpathentry kind="lib" path="onesignal/com/onesignal/play-services-iid-17.0.0.jar"/>
+	<classpathentry kind="lib" path="onesignal/com/onesignal/firebase-common-18.0.0.jar"/>
+	<classpathentry kind="lib" path="onesignal/com/onesignal/firebase-iid-19.0.1.jar"/>
+	<classpathentry kind="lib" path="onesignal/com/onesignal/firebase-iid-interop-17.0.0.jar"/>
+	<classpathentry kind="lib" path="onesignal/com/onesignal/firebase-measurement-connector-18.0.0.jar"/>
+	<classpathentry kind="lib" path="onesignal/com/onesignal/firebase-messaging-19.0.1.jar"/>
+	<classpathentry kind="lib" path="onesignal/com/onesignal/play-services-ads-19.1.0.jar"/>
+	<classpathentry kind="lib" path="onesignal/com/onesignal/play-services-ads-base-19.1.0.jar"/>
+	<classpathentry kind="lib" path="onesignal/com/onesignal/play-services-ads-identifier-17.0.0.jar"/>
+	<classpathentry kind="lib" path="onesignal/com/onesignal/play-services-ads-lite-19.1.0.jar"/>
+	<classpathentry kind="lib" path="onesignal/com/onesignal/play-services-gass-19.1.0.jar"/>
+	<classpathentry kind="lib" path="onesignal/com/onesignal/play-services-measurement-base-17.1.0.jar"/>
+	<classpathentry kind="lib" path="onesignal/com/onesignal/play-services-measurement-sdk-api-17.1.0.jar"/>
+	<classpathentry kind="lib" path="onesignal/com/onesignal/play-services-stats-17.0.0.jar"/>
+	<classpathentry kind="lib" path="onesignal/com/onesignal/play-services-tasks-17.0.0.jar"/>
+	<classpathentry kind="lib" path="onesignal/com/onesignal/classeks.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
